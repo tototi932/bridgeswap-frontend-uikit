@@ -10,9 +10,10 @@ export const baseColors = {
   warning: "#FFB237",
 };
 
+
 export const additionalColors = {
   binance: "#0773C9",
-  overlay: "#c73316",
+  overlay: "#452a7a",
 };
 
 export const lightColors: Colors = {
