@@ -52,10 +52,10 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...additionalColors,
-  secondary: "#202136",
-  background: "#202136",
-  backgroundDisabled: "#9595e9",
-  backgroundAlt: "#27262c",
+  secondary: "#DBC42F",
+  background: "#000000",
+  backgroundDisabled: "#000000",
+  backgroundAlt: "#000000",
   cardBorder: "#e44222",
   contrast: "#FFFFFF",
   dropdown: "#2c2624",
@@ -73,7 +73,7 @@ export const darkColors: Colors = {
   disabled: "#524B63",
   menuHover: "#F7AD19",
   gradients: {
-    bluePurple: "linear-gradient(90.82deg, #FA00FF -73.84%, #17D2FB 141.1%)",
+    bluePurple: "linear-gradient(90.82deg, #000000 -73.84%, #17D2FB 141.1%)",
     bubblegum: "linear-gradient(245.94deg, rgba(8, 8, 56, 0.2) -63.8%, rgba(17, 17, 139, 0.2) 73.44%)",
     inverseBubblegum: "linear-gradient(245.94deg, rgba(8, 8, 56, 0.2) -63.8%, rgba(17, 17, 139, 0.2) 73.44%)",
     cardHeader: "linear-gradient(166.77deg, #a75342 0%, #8d2416 100%)",
