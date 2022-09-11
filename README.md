@@ -1,22 +1,22 @@
-Bridgeswap UIkit
+Doge Gold Floki UIkit
 
-[![Version](https://img.shields.io/npm/v/@bridgeswap-libs/uikit)](https://www.npmjs.com/package/@bridgeswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@bridgeswap-libs/uikit)](https://www.npmjs.com/package/@bridgeswap-libs/uikit)
+[![Version](https://img.shields.io/npm/v/@dogegoldfloki-libs/uikit)](https://www.npmjs.com/package/@dogegoldfloki-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@dogegoldfloki-libs/uikit)](https://www.npmjs.com/package/@dogegoldfloki-libs/uikit)
 
 Bridgeswap UIkit is a set of React components and hooks used to build pages on Bridgeswap's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
-`yarn add @bridgeswap-libs/uikit`
+`yarn add @dogegoldfloki-libs/uikit`
 
 ## Setup
 
 ### Theme
 
-Before using Bridgeswap UIkit, you need to provide the theme file to styled-component.
+Before using Doge Gold Floki UIkit, you need to provide the theme file to styled-component.
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@bridgeswap-libs/uikit'
+import { light, dark } from '@dogegoldfloki-libs/uikit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
@@ -26,7 +26,7 @@ import { light, dark } from '@bridgeswap-libs/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@bridgeswap-libs/uikit'
+import { ResetCSS } from '@dogegoldfloki-libs/uikit'
 ...
 <ResetCSS />
 ```
