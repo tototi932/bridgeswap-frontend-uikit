@@ -158,22 +158,22 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/Bridgeswap-Dex",
+    href: "https://github.com/",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/bridgeswap_dex",
+    href: "https://twitter.com/Doge_Gold_Floki",
   },
   {
     label: "Medium",
     icon: "MediumIcon",
-    href: "https://bridgeswap.medium.com",
+    href: "https://medium.com/@Doge-Gold-Floki",
   },
   {
     label: "Gitbook",
     icon: "GitbookIcon",
-    href: "https://bridgeswap-exchange-1.gitbook.io/bridgeswap/",
+    href: "https://doge-gold-floki-finance.gitbook.io/dgf/",
   },
   {
     label: "Telegram",
@@ -181,7 +181,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/bridgeswap",
+        href: "https://t.me/Doge_Gold_Floki",
       },
       // {
       //   label: "Bahasa Indonesia",
